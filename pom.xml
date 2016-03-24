@@ -4,7 +4,7 @@
 
     <groupId>com.github.mlk</groupId>
     <artifactId>jdbi-guice</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>JDBI Guice</name>
 
     <description>Binds JDBI resources into the Guice dependency injection framework.</description>
