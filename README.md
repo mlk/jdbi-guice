@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/mlk/jdbi-guice.svg?branch=master)](https://travis-ci.org/mlk/jdbi-guice) [![codecov.io](https://codecov.io/github/mlk/jdbi-guice/coverage.svg?branch=master)](https://codecov.io/github/mlk/jdbi-guice?branch=master)
+
 # jdbi-guice
 A module to marry together JDBI bound resources to the Guice dependency injection framework.
 ```
